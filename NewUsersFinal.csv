@@ -1,0 +1,3 @@
+﻿FirstName,Initials,LastName,Username,DisplayName,Company,OfficePhone,EmailAddress,StreetAddress,City,proxyAddresses,ZipCode,State,Country,Department,Password,JobTitle,ou
+TESTin,,TESTin,Testin,Testin,,,Testin@flightdocs.com,,,testin,,,,,Flight1000!,,"OU=Programming,OU=Users-NoRestrictions,OU=FlightDocs,DC=flightdocs,DC=com"
+TESTin2,,TESTin2,Testin2,Testin2,,,Testin2@flightdocs.com,,,testin2,,,,,Flight1000!,,"OU=Programming,OU=Users-NoRestrictions,OU=FlightDocs,DC=flightdocs,DC=com"
